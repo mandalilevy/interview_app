@@ -1,4 +1,4 @@
-# Classroom Feedback System (Django + DRF + JWT RBAC Demo)
+# INTERVIEW DEMO APP (Django + DRF + JWT RBAC Demo)
 ## Overview
 This project is a Django REST Framework-based classroom feedback system built to demonstrate:
 - JWT-based authentication
